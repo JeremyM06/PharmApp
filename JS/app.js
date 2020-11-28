@@ -388,7 +388,7 @@ $(document).ready(function () {
     });
 
 
-    /* /message pharmaciens acceuil/*/
+    /* /message pharmaciens accueil/*/
     $(".bulle").hide()
     $(".bulle2").hide()
     $(".jcp-speech").hide()
